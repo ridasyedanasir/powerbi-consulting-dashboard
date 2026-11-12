@@ -1,4 +1,4 @@
-# Consulting Firm Performance Dashboard | Power BI
+# Consulting Firm Performance Dashboard Example| Power BI
 
 An interactive Power BI dashboard analyzing revenue, profitability, and consultant utilization for a simulated technology consulting firm (Jan 2025 – Oct 2026).
 
